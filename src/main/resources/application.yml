@@ -30,5 +30,5 @@ sonar:
   projectKey: your-project-key
   host:
     url: http://localhost:9000
-  login: sqp_fc684a01c5eac900ce4ba35158cab61d7ee14f04
+  login: sqp_dca96ac997c8d4dbc8f87385580a8c4b4cbcc89e
 
