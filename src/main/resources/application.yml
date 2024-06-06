@@ -26,4 +26,9 @@ server:
 #    context-path: /api
   port: 8088
 
+sonar:
+  projectKey: your-project-key
+  host:
+    url: http://localhost:9000
+  login: sqp_fc684a01c5eac900ce4ba35158cab61d7ee14f04
 
